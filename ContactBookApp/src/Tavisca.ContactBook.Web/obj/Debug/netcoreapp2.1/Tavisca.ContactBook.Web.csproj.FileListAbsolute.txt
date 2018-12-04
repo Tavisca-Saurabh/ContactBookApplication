@@ -1,0 +1,14 @@
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\bin\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.deps.json
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\bin\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.runtimeconfig.json
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\bin\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.runtimeconfig.dev.json
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\bin\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.dll
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\bin\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.pdb
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.csprojAssemblyReference.cache
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.csproj.CoreCompileInputs.cache
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.RazorAssemblyInfo.cache
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.RazorAssemblyInfo.cs
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.AssemblyInfoInputs.cache
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.AssemblyInfo.cs
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.RazorTargetAssemblyInfo.cache
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.dll
+B:\Tavisca\ContactBookApp\ContactBookApplication\ContactBookApp\src\Tavisca.ContactBook.Web\obj\Debug\netcoreapp2.1\Tavisca.ContactBook.Web.pdb

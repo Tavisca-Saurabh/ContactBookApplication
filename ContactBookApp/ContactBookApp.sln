@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Host", "1. Host", "{3E8DBD37-FB87-4387-9CB8-E479DA3BA3C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Core", "2. Core", "{23D0996A-162E-4ADF-99EC-C3F6F159B7AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Plugins", "3. Plugins", "{1F3DA30C-5C57-4606-91D3-1DEA32BABA65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Adapters", "4. Adapters", "{B0FEC33A-018B-48D0-90C4-8D3C7E3463F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. SubModule", "5. SubModule", "{5E35A803-500C-4058-A5F0-27824EF59A89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Test", "6. Test", "{C316EF10-7B7C-42F1-A918-A4F500A8CEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.ContactBook.Web", "src\Tavisca.ContactBook.Web\Tavisca.ContactBook.Web.csproj", "{CD466C71-EA61-4279-9643-FEC4A4833BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.ContactBook.Service", "src\Tavisca.ContactBook.Service\Tavisca.ContactBook.Service.csproj", "{E2CC5C37-02E8-4807-8A17-8DABAC6DF380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Contact.Core", "src\Tavisca.Contact.Core\Tavisca.Contact.Core.csproj", "{E66CB734-965B-4B58-BC87-C600AF298DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.ContactBook.Model", "src\Tavisca.ContactBook.Model\Tavisca.ContactBook.Model.csproj", "{4C8FF245-B50A-4CE5-A17A-DA52D27761FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.ContactBook.Plugins", "src\Tavisca.ContactBook.Plugins\Tavisca.ContactBook.Plugins.csproj", "{218F5C55-56E7-482B-9BFC-E8CCAB210AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD466C71-EA61-4279-9643-FEC4A4833BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD466C71-EA61-4279-9643-FEC4A4833BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD466C71-EA61-4279-9643-FEC4A4833BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD466C71-EA61-4279-9643-FEC4A4833BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CC5C37-02E8-4807-8A17-8DABAC6DF380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CC5C37-02E8-4807-8A17-8DABAC6DF380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CC5C37-02E8-4807-8A17-8DABAC6DF380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CC5C37-02E8-4807-8A17-8DABAC6DF380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66CB734-965B-4B58-BC87-C600AF298DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66CB734-965B-4B58-BC87-C600AF298DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66CB734-965B-4B58-BC87-C600AF298DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66CB734-965B-4B58-BC87-C600AF298DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8FF245-B50A-4CE5-A17A-DA52D27761FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8FF245-B50A-4CE5-A17A-DA52D27761FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8FF245-B50A-4CE5-A17A-DA52D27761FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8FF245-B50A-4CE5-A17A-DA52D27761FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218F5C55-56E7-482B-9BFC-E8CCAB210AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218F5C55-56E7-482B-9BFC-E8CCAB210AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218F5C55-56E7-482B-9BFC-E8CCAB210AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218F5C55-56E7-482B-9BFC-E8CCAB210AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD466C71-EA61-4279-9643-FEC4A4833BA6} = {3E8DBD37-FB87-4387-9CB8-E479DA3BA3C7}
+		{E2CC5C37-02E8-4807-8A17-8DABAC6DF380} = {3E8DBD37-FB87-4387-9CB8-E479DA3BA3C7}
+		{E66CB734-965B-4B58-BC87-C600AF298DA2} = {23D0996A-162E-4ADF-99EC-C3F6F159B7AB}
+		{4C8FF245-B50A-4CE5-A17A-DA52D27761FF} = {23D0996A-162E-4ADF-99EC-C3F6F159B7AB}
+		{218F5C55-56E7-482B-9BFC-E8CCAB210AB9} = {1F3DA30C-5C57-4606-91D3-1DEA32BABA65}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02E341E-38E3-40AE-83B0-5A77310D00B7}
+	EndGlobalSection
+EndGlobal
